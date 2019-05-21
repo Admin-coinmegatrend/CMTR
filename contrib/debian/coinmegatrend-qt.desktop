@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=coinmegatrend
+Comment=coinmegatrend P2P Cryptocurrency
+Comment[fr]=coinmegatrend, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=coinmegatrend, eşten eşe kriptografik sanal para birimi
+Exec=coinmegatrend-qt %u
+Terminal=false
+Type=Application
+Icon=coinmegatrend128
+MimeType=x-scheme-handler/coinmegatrend;
+Categories=Office;Finance;

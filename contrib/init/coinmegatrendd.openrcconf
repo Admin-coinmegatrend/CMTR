@@ -1,0 +1,26 @@
+# /etc/conf.d/coinmegatrendd: config file for /etc/init.d/coinmegatrendd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/coinmegatrend/coinmegatrend.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/coinmegatrendd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/coinmegatrendd.pid"
+
+# Where to write coinmegatrendd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/coinmegatrendd"
+
+# User and group to own coinmegatrendd process
+#BITCOIND_USER="coinmegatrend"
+#BITCOIND_GROUP="coinmegatrend"
+
+# Path to coinmegatrendd executable
+#BITCOIND_BIN="/usr/bin/coinmegatrendd"
+
+# Nice value to run coinmegatrendd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

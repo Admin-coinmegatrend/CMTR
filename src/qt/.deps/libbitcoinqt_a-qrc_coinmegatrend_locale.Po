@@ -1,0 +1,2 @@
+qt/libbitcoinqt_a-qrc_coinmegatrend_locale.o: \
+  qt/qrc_coinmegatrend_locale.cpp

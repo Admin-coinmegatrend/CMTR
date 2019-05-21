@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/coinmegatrend_bg.qm</file>
+        <file alias="ca">locale/coinmegatrend_ca.qm</file>
+        <file alias="cs">locale/coinmegatrend_cs.qm</file>
+        <file alias="da">locale/coinmegatrend_da.qm</file>
+        <file alias="de">locale/coinmegatrend_de.qm</file>
+        <file alias="en">locale/coinmegatrend_en.qm</file>
+        <file alias="en_US">locale/coinmegatrend_en_US.qm</file>
+        <file alias="es">locale/coinmegatrend_es.qm</file>
+        <file alias="fi">locale/coinmegatrend_fi.qm</file>
+        <file alias="fr_FR">locale/coinmegatrend_fr_FR.qm</file>
+        <file alias="hr">locale/coinmegatrend_hr.qm</file>
+        <file alias="it">locale/coinmegatrend_it.qm</file>
+        <file alias="ja">locale/coinmegatrend_ja.qm</file>
+        <file alias="ko_KR">locale/coinmegatrend_ko_KR.qm</file>
+        <file alias="nl">locale/coinmegatrend_nl.qm</file>
+        <file alias="pl">locale/coinmegatrend_pl.qm</file>
+        <file alias="pt">locale/coinmegatrend_pt.qm</file>
+        <file alias="pt_BR">locale/coinmegatrend_pt_BR.qm</file>
+        <file alias="ro_RO">locale/coinmegatrend_ro_RO.qm</file>
+        <file alias="ru">locale/coinmegatrend_ru.qm</file>
+        <file alias="sk">locale/coinmegatrend_sk.qm</file>
+        <file alias="sv">locale/coinmegatrend_sv.qm</file>
+        <file alias="tr">locale/coinmegatrend_tr.qm</file>
+        <file alias="uk">locale/coinmegatrend_uk.qm</file>
+        <file alias="zh_CN">locale/coinmegatrend_zh_CN.qm</file>
+        <file alias="zh_TW">locale/coinmegatrend_zh_TW.qm</file>
+    </qresource>
+</RCC>
